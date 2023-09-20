@@ -1,0 +1,8 @@
+C:\Users\ucenik\source\repos\UvodnaVjezba02\UvodnaVjezba02\bin\Debug\UvodnaVjezba02.exe.config
+C:\Users\ucenik\source\repos\UvodnaVjezba02\UvodnaVjezba02\bin\Debug\UvodnaVjezba02.exe
+C:\Users\ucenik\source\repos\UvodnaVjezba02\UvodnaVjezba02\bin\Debug\UvodnaVjezba02.pdb
+C:\Users\ucenik\source\repos\UvodnaVjezba02\UvodnaVjezba02\obj\Debug\UvodnaVjezba02.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\UvodnaVjezba02\UvodnaVjezba02\obj\Debug\UvodnaVjezba02.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\UvodnaVjezba02\UvodnaVjezba02\obj\Debug\UvodnaVjezba02.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\UvodnaVjezba02\UvodnaVjezba02\obj\Debug\UvodnaVjezba02.exe
+C:\Users\ucenik\source\repos\UvodnaVjezba02\UvodnaVjezba02\obj\Debug\UvodnaVjezba02.pdb
